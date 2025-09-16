@@ -2,4 +2,4 @@
 
 **Bienvenue sur mon site web**
 
-(test 1)
+Mon profil [LinkedIn] (https://www.linkedin.com/in/inès-ely-5323132b1/)
