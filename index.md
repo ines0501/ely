@@ -2,12 +2,14 @@
 
 **Bienvenue sur mon site web**
 
-Mon profil [LinkedIn](https://www.linkedin.com/in/inès-ely-5323132b1/)
-
-Mon université [UBO](https://www.univ-brest.fr/fr)
-
-Le programme de [mon master](https://formations.univ-brest.fr/fr/index/arts-lettres-langues-ALL/master-XB/master-mention-traduction-et-interpretation-IOMOTB9T/parcours-redaction-traduction-IOMP2P9W.html)
+###### Mes liens
+* Mon profil [LinkedIn](https://www.linkedin.com/in/inès-ely-5323132b1/)
+* Mon université [UBO](https://www.univ-brest.fr/fr)
+* Le programme de [mon master](https://formations.univ-brest.fr/fr/index/arts-lettres-langues-ALL/master-XB/master-mention-traduction-et-interpretation-IOMOTB9T/parcours-redaction-traduction-IOMP2P9W.html)
 
 ![J'aime les chats!](https://teeturtle.com/cdn/shop/files/I-Love-Cats_800x800_SEPS.jpg?v=1703409041)
 
-[autre page](https://ines0501.github.io/ely/folder%20test/test%201.md)
+###### Pour me contacter
+Mon adresse-mail <ines.ely05@gmail.com>
+
+Mon numéro de téléphone : 00000000000
