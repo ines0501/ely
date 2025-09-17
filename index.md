@@ -10,4 +10,4 @@ Le programme de [mon master](https://formations.univ-brest.fr/fr/index/arts-lett
 
 ![J'aime les chats!](https://teeturtle.com/cdn/shop/files/I-Love-Cats_800x800_SEPS.jpg?v=1703409041)
 
-[autre page](..folder test/test 1.md)
+[autre page](https://github.com/ines0501/ely/blob/main/folder%20test/test%201.md)
