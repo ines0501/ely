@@ -14,8 +14,4 @@ Mon adresse-mail <ines.ely05@gmail.com>
 
 Mon numéro de téléphone : 00000000000
 
-::: Yes
-
-Bloc note
-
-:::
+> Ne me cherchez pas sur les réseaux sociaux.
