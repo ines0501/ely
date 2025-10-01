@@ -3,6 +3,8 @@
 
 **Bienvenue sur mon site web**
 
+{% include Bar de navigation.md %}
+
 ###### Mes liens
 * Mon profil [LinkedIn](https://www.linkedin.com/in/inès-ely-5323132b1/)
 * Mon université [UBO](https://www.univ-brest.fr/fr)
