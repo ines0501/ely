@@ -11,10 +11,3 @@
 * Le programme de [mon master](https://formations.univ-brest.fr/fr/index/arts-lettres-langues-ALL/master-XB/master-mention-traduction-et-interpretation-IOMOTB9T/parcours-redaction-traduction-IOMP2P9W.html)
 
 ![J'aime les chats!](https://teeturtle.com/cdn/shop/files/I-Love-Cats_800x800_SEPS.jpg?v=1703409041)
-
-###### Pour me contacter
-Mon adresse-mail <ines.ely05@gmail.com>
-
-Mon numéro de téléphone : 00000000000
-
-> Ne me cherchez pas sur les réseaux sociaux.
