@@ -1,14 +1,14 @@
-# Inès Ely - Traduction
+# Le chat parfait
 
 {% include navbar.md %}
 <br>
 
 <p style="text-align:center">
-  <gras>Bienvenue sur mon site</gras>
+  <gras>Bienvenue sur le site du chat le plus parfait au monde</gras>
 </p>
 
 <div align="center">
-  ![cat welcome](https://img.freepik.com/vecteurs-premium/chat-tient-signe-bienvenue_703262-79.jpg)
+  <a href="https://img.freepik.com/vecteurs-premium/chat-tient-signe-bienvenue_703262-79.jpg"></a>
 </div> 
 
 ###### Mes liens
