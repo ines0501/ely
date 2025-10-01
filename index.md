@@ -4,7 +4,7 @@
 <br>
 
 <p style="text-align:center">
-  **Bienvenue sur mon site**
+  <gras>Bienvenue sur mon site</gras>
 </p>
 
 <div align="center">
