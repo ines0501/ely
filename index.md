@@ -5,11 +5,9 @@
 
 <p style="text-align:center">
   Bienvenue sur mon site
-  
-  ![cat welcome](https://img.freepik.com/vecteurs-premium/chat-tient-signe-bienvenue_703262-79.jpg)
 </p>
 
-
+<div align="center">![cat welcome](https://img.freepik.com/vecteurs-premium/chat-tient-signe-bienvenue_703262-79.jpg)</div> 
 
 ###### Mes liens
 * Mon profil [LinkedIn](https://www.linkedin.com/in/inès-ely-5323132b1/)
