@@ -3,7 +3,7 @@
 {% include navbar.md %}
 <br>
 
-### <p style="color:#16B451;"><gras>Mais qui est le chat le plus parfait au monde ?</gras></p>
+### <span style="color:16B451">Mais qui est le chat parfait ?</span>.
 ----
 
 
