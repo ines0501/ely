@@ -3,6 +3,8 @@
 {% include navbar.md %}
 <br>
 
+<body style="background-color:grey;">
+
 <p style="text-align:center">
   <gras>Bienvenue sur le site du chat le plus parfait au monde</gras>
 </p>
