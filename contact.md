@@ -1,9 +1,9 @@
-# Inès Ely - Traduction
+# Le chat parfait
 
 {% include navbar.md %}
 <br>
 
-#### <span style="color:green">Vous pouvez me contactez via : </span>
+#### <p style="color:#16B451;">Vous pouvez contacter le chat parfait via :</p>">
 - **Mail** : <ines.ely05@gmail.com>
-- **Téléphone** : 06.24.81.90.32
+- **Téléphone** : 01.23.45.67.89
 - **LinkedIn** : <www.linkedin.com/in/inès-ely-traduction>
