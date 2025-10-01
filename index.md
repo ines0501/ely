@@ -3,7 +3,8 @@
 
 **Bienvenue sur mon site web**
 
-{% include Bar de navigation.md %}
+{% include navbar.md %}
+<br>
 
 ###### Mes liens
 * Mon profil [LinkedIn](https://www.linkedin.com/in/inès-ely-5323132b1/)
