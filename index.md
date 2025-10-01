@@ -3,10 +3,13 @@
 {% include navbar.md %}
 <br>
 
-<p style="text-align:center">Bienvenue sur mon site</p>
+<p style="text-align:center">
+  Bienvenue sur mon site
+  
+  ![cat welcome](https://img.freepik.com/vecteurs-premium/chat-tient-signe-bienvenue_703262-79.jpg)
+</p>
 
 
-![cat welcome](https://img.freepik.com/vecteurs-premium/chat-tient-signe-bienvenue_703262-79.jpg)
 
 ###### Mes liens
 * Mon profil [LinkedIn](https://www.linkedin.com/in/inès-ely-5323132b1/)
