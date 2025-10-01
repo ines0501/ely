@@ -3,14 +3,13 @@
 {% include navbar.md %}
 <br>
 
-<body style="background-color:grey;">
 
 <p style="text-align:center">
   <gras>Bienvenue sur le site du chat le plus parfait au monde</gras>
 </p>
 
 <div align="center">
-  <a href="https://img.freepik.com/vecteurs-premium/chat-tient-signe-bienvenue_703262-79.jpg"></a>
+  <a href="https://img.freepik.com/vecteurs-premium/chat-tient-signe-bienvenue_703262-79.jpg"><img src="https://img.freepik.com/vecteurs-premium/chat-tient-signe-bienvenue_703262-79.jpg"></a>
 </div> 
 
 ###### Mes liens
