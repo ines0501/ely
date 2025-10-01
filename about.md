@@ -3,7 +3,9 @@
 {% include navbar.md %}
 <br>
 
-### <span style="color:16B451">Mais qui est le chat parfait ?</span>.
+<h2>
+  <span style="color:MediumSeaGreen">Mais qui est le chat parfait ?</span>
+</h2>
 ----
 
 
