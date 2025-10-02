@@ -5,7 +5,9 @@
 
 
 <p style="text-align:center">
-  <gras>Bienvenue sur le site du chat le plus parfait au monde</gras>
+  <gras>
+    Bienvenue sur le site du chat le plus parfait au monde
+  </gras>
 </p>
 
 <div align="center">
