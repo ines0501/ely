@@ -1,7 +1,6 @@
 # Le chat parfait
 
 {% include navbar.md %}
-<br>
 
 <h3>
   <span style="color:MediumSeaGreen">
