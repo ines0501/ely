@@ -5,7 +5,7 @@
 
 ### **Remerciements**
 
-*** "Je voudrai remercier en premier mes fans, je ne serai jamais arrivée là sans vous.
+___ "Je voudrai remercier en premier mes fans, je ne serai jamais arrivée là sans vous.
 
 Je remercie également ma maman Moon, sans qui je ne serais pas née.
 
@@ -15,4 +15,4 @@ Je n'oublie pas non plus tous les chats du quartier, et mon voisin préféré (C
 
 Je remercie également mes grands-parents pour les croquettes à volonté et mes deux sachets de pâtée par jour.
 
-Enfin, je voudrai remercier ma manageuse, sans qui je n'aurais pas un lit douillet où mettre toutes les feuilles du jardin dessus. C'est elle qui a créée ce site de toute pièce. Merci du fond du coeur pour tout ce que tu fais pour moi !" ***
+Enfin, je voudrai remercier ma manageuse, sans qui je n'aurais pas un lit douillet où mettre toutes les feuilles du jardin dessus. C'est elle qui a créée ce site de toute pièce. Merci du fond du coeur pour tout ce que tu fais pour moi !" ___
