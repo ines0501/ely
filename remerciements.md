@@ -3,7 +3,12 @@
 {% include navbar.md %}
 <br>
 
-### **Remerciements**
+<h3>
+  <span style="color:MediumSeaGreen">
+    <bold>Remerciements</bold>
+  </span>
+</h3>
+
 
 ***"Je voudrai remercier en premier mes fans, je ne serai jamais arrivée là sans vous.***
 
