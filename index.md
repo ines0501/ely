@@ -3,9 +3,9 @@
 {% include navbar.md %}
 
 <h2>
-  <efhrjfb>
+  <span style="color:MediumSeaGreen">
     <bold>Accueil</bold>
-  </efhrjfb>
+  </span>
 </h2>
 
 <p style="text-align:center">
