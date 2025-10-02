@@ -2,11 +2,11 @@
 
 {% include navbar.md %}
 
-<h3>
+<h2>
   <span style="color:MediumSeaGreen">
     <bold>Remerciements</bold>
   </span>
-</h3>
+</h2>
 
 
 ***"Je voudrai remercier en premier mes fans, je ne serai jamais arrivée là sans vous.***
