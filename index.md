@@ -10,9 +10,10 @@
   </span>
 </h2>
 
-<center>
-  <bold>Bienvenue sur le site du chat le plus parfait au monde !</bold>
-</center>
+<div align="center">
+  <strong>Bienvenue sur le site du chat le plus parfait au monde !</strong>
+</div>
+<br>
 
 <div align="center">
   <a href="https://img.freepik.com/vecteurs-premium/chat-tient-signe-bienvenue_703262-79.jpg"><img src="https://img.freepik.com/vecteurs-premium/chat-tient-signe-bienvenue_703262-79.jpg"></a>
