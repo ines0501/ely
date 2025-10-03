@@ -11,7 +11,9 @@
 </h2>
 
 <p style="text-align:center">
-  <bold>Bienvenue sur le site du chat le plus parfait au monde !</bold>
+  <bold>
+    Bienvenue sur le site du chat le plus parfait au monde !
+  </bold>
 </p>
 
 <div align="center">
