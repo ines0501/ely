@@ -18,7 +18,8 @@ Regarder une mouche avec mes soeurs.
 > PS : Personne ne l'a attrapé.
 
 Travailler dur sur les genous de mon assistante. Il faut bien vérifier qu'elle fasse le boulot correctement.
-![etudiersurlesgenous](https://github.com/user-attachments/assets/552b4b1b-406f-4736-84bb-f9dddcc5a997)
+<img src="https://github.com/user-attachments/assets/552b4b1b-406f-4736-84bb-f9dddcc5a997" style="transform:rotate(90deg);"> 
+<br>
 
 Faire une petite sieste (de 10H00 jusqu'à 17H00)...
 ![dodosouslacouette](https://github.com/user-attachments/assets/e2d1de4a-2fbf-43e0-a347-e59d789c10df)
@@ -35,6 +36,6 @@ Petite inspection du toit. Et du voisinage également.
 Toujours se tenir au courant des actualités au journal télévisé.
 ![6mois ecran](https://github.com/user-attachments/assets/c5e59d26-6f72-4803-b08a-aa41e7c0787c)
 
-Puis, après mettre battue avec mes soeurs et ma mère pour avoir un bout de pâtée, une bonne nuit de sommeil dans le lit douillet de mon assistante (c'est le mien mais ça lui plaisir de croire que c'est le sien) m'attend.
-Les meilleures nuits sont celles avec mes soeurs. On vient gratter à la porte ou la fenêtre de la chambre de l'assistante jusqu'à qu'elle nous ouvre. Et quand on veut sortir, il y en a une qui gratte à la porte, l'assistante se lève pour ouvrir, puis on attend qu'elle se soit bien ré-installée dans son lit (idéalement, c'est même mieux quand elle se rendort), et c'est là qu'une autre gratte à la porte.
+Puis, après m'être battue avec mes soeurs et ma mère pour avoir un bout de pâtée, une bonne nuit de sommeil dans le lit douillet de mon assistante m'attend (c'est le mien mais ça lui plaisir de croire que c'est le sien).
+Les meilleures nuits sont celles avec mes soeurs. On vient gratter à la porte ou la fenêtre de l'assistante jusqu'à qu'elle nous ouvre. Et quand on veut sortir, il y en a une qui gratte à la porte, l'assistante se lève pour ouvrir, puis on attend qu'elle se soit bien ré-installée dans son lit (idéalement, c'est même mieux quand elle se rendort), et c'est là qu'une autre gratte à la porte.
 ![dodocalin3](https://github.com/user-attachments/assets/e9d43092-58e7-47f0-8374-793d7807a883)
