@@ -22,5 +22,5 @@
 ***Enfin, je voudrais remercier mon assistante, sans qui je n'aurais pas un lit douillet où mettre toutes les feuilles du jardin dessus. C'est elle qui a créé ce site de toutes pièces. Merci du fond du cœur pour tout ce que tu fais pour moi !"***
 
 <div align="center">
-  ![Merci](https://usagif.com/wp-content/uploads/gif/mercibvd-28.gif)
+   <a href="https://usagif.com/wp-content/uploads/gif/mercibvd-28.gif"><img src="https://usagif.com/wp-content/uploads/gif/mercibvd-28.gif"></a>
 </div>
