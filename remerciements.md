@@ -13,7 +13,7 @@
 
 ***Je remercie également ma mère, Moon, sans qui je ne serais pas née.***
 
-***Je voudrais remercier mon grand frère (Rio) pour ne pas me cracher dessus à chaque fois que je mange dans la gamelle, mes soeurs (Wax et Utah) et mon frère parisien (Nori, de toute façon tu ne passeras pas par là). Je pense également à mon second grand frère, Junior, et ma grande sœur Tagada, partis trop tôt tous les deux.***
+***Je voudrais remercier mon grand frère (Rio) pour ne pas me cracher dessus à chaque fois que je mange dans la gamelle, mes soeurs (Wax et Utah), mon frère parisien (Nori, de toute façon tu ne passeras pas par là) et la petite dernière de la famille en crise d'adolescence, Pyla. Je pense également à mon second grand frère, Junior, et ma grande sœur Tagada, partis trop tôt tous les deux.***
 
 ***Je n'oublie pas non plus tous les chats du quartier, et mon voisin préféré (Coco, tu te reconnaîtras !).***
 
