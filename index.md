@@ -25,7 +25,7 @@
 - **et beaucoup de second degré !**
 
 > ⚠️ Nous nous excusons de la gène occasionnée si votre chat ressent de la jalousie.
-
+> ⚠️ Le site met du temps à charger, veuillez patienter.
 > ⚠️ Ce site a été créé a des fins humoristiques. Ceci est du second degré.
 
 
