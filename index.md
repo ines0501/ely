@@ -20,7 +20,7 @@
 </div> 
 
 **Au programme** :
-- **de la culture (VOUS DEVEZ AVOIR CONNAÎTRE RÉFÈRENCE)**
+- **de la culture (VOUS DEVEZ AVOIR LA RÉFÈRENCE)**
 - **de l'admiration (Il faut savoir reconnaître la beauté et l'excellence)**
 - **et beaucoup de second degré !**
 
